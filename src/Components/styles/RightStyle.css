@@ -1,0 +1,39 @@
+.right-container{
+    margin-left: 5%;
+    margin-top: 2%;
+    width: 62%;
+    height: 80vh;
+    overflow: auto;
+    padding-left: 20px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    box-shadow: 10px 10px 20px 8px rgba(156, 155, 155, 0.6);
+}
+
+.title{
+    margin-left: 5%;
+    text-decoration: underline;
+    color: rgb(47, 231, 255);
+    font-family: Akaash;
+    font-size: 25px;
+}
+.attr{
+    margin-left: 10%;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.left-info{
+   display: flex;
+   flex-direction: row;
+}
+.right-info{
+    margin-top: 2%;
+    margin-left: 2%;
+}

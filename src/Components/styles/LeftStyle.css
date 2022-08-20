@@ -1,0 +1,22 @@
+.left-container{
+    margin-top: 2%;
+    margin-left: 1.5%;
+    border-radius: 15px;
+    object-fit: cover;
+    align-items: center;
+    width: 28vw;
+    height: 80vh;
+    box-shadow: 10px 10px 20px 8px rgba(156, 155, 155, 0.6);
+}
+.left-container>input{
+    display: none;
+}
+.Image img{
+    border: none;
+    border-radius: 15px;
+    margin-top: 12%;
+    object-fit: cover;
+    margin-left: 7%;
+    width: 85%;
+    height: 58vh;
+}
